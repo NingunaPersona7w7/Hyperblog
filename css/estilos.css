@@ -4,7 +4,7 @@
 
 }
 h3,h2{
-    color: rgb(91, 0, 211);
+    color: rgb(0, 83, 179);
     font-size:200%;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 10%;
@@ -18,7 +18,7 @@ p{
     margin: 5%;
 }
 body{
-    background-color: rgba(204, 25, 25, 0.842);
+    background-color: lemonchiffon;
     
 }
 .articulo{
